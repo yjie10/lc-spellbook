@@ -1,4 +1,4 @@
-## LC xxx - [Problem Title] 🐈‍⬛
+## LC xxx - {Problem Title} 🐈‍⬛
 
 [Description]
 
@@ -6,11 +6,15 @@
 🏷️ Tags: DP, Array, Two Pointers, etc.
 🔗 URL: [Link](link)
 
+---
+
 ### Understanding the Question 🔍
 
 - Constraints / Edge Cases
 - Test Cases
 - My first interpretation (correct or incorrect)
+
+---
 
 ### Approach 💡
 
@@ -18,14 +22,23 @@
 - Why I picked this method (e.g. how is it better compared to brute-force?)
 - [optional] Any comparison of different methods (e.g. dfs vs. bfs)
 
+---
+
 ### Key Implementation Points 🛠️
+
+- Special handling (e.g. reverse iteration)
+- Debug issues I ran into / pitfalls etc.
+
+---
 
 ### Time & Space Complexity ⏳🌌
 
-- Time: O(?)
-- Space: O(?)
+- **Time**: O(?)
+- **Space**: O(?)
 
-Explanation: _Explanation._
+_**Explanation**_: Explanation.
+
+---
 
 ### Summary & Reflection 💭
 
