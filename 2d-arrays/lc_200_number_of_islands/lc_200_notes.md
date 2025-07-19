@@ -5,7 +5,7 @@ Given an m x n 2D binary grid grid which represents a map of '1's (land) and '0'
 An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
 🧩 Type: DFS, BFS
-🏷️ Tags: 2d-arrays
+🏷️ Tags: 2d-Arrays
 🔗 URL: [Leetcode 200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 ---
@@ -43,12 +43,9 @@ Example 2:
 
 ---
 
-### Approach 💡
+### Approach & Implementation 🛠️
 
 - Loop through the grid sequentially starting from `(0, 0)` and loop through the grid, increase `islandCount` and perform traversal if `grid[m][n]` is `'1'` (island).
-
-### Key Implementation Points 🛠️
-
 - Don't forget to increase `islandCount` (😂).
 - No need to create extra space, can do in-place update.
 - For _BFS_: When checking for bounds, it should be `&&` instead of `||`...
@@ -66,12 +63,12 @@ Example 2:
 ### Time & Space Complexity ⏳🌌
 
 - **Time**: `O(m x n)`
-- **Space**: `O(m x n)` in the worst case, due to recursion stack (DFS) or queue (BFS).
+- **Space**: `O(m x n)`
 
-_**Explanation**_:
+**_Explanation_**:
 
-- Will have to touch every single element `grid[m][n]` which results in `O(m x n)` time.
-- Updating grid in-place, not taking up additional space, and therefore `O(1)`.
+- T: Will have to touch every single element `grid[m][n]` which results in `O(m x n)` time.
+- S: `O(m x n)` in the worst case, due to recursion stack (DFS) or queue (BFS).
 
 ---
 

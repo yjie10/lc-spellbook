@@ -1,31 +1,28 @@
 ## LC xxx - {Problem Title} 🐈‍⬛
 
-[Description]
+{Description}
 
 🧩 Type: (e.g. Topological Sort, Heap for top K elements, Quickselect, etc.)
 🏷️ Tags: DP, Array, Two Pointers, etc.
-🔗 URL: [Link](link)
+🔗 URL: [{LC xxx - Problem Title}](link)
 
 ---
 
 ### Understanding the Question 🔍
 
-- Constraints / Edge Cases
-- Test Cases
-- My first interpretation (correct or incorrect)
+**Constraints / Edge Cases**:
+
+**Test Cases**:
+
+**My first interpretation (correct or incorrect)**:
 
 ---
 
-### Approach 💡
+### Approach & Implementation 🛠️
 
 - High-level plan / featured DS and/or algo (correct or incorrect)
 - Why I picked this method (e.g. how is it better compared to brute-force?)
 - [optional] Any comparison of different methods (e.g. dfs vs. bfs)
-
----
-
-### Key Implementation Points 🛠️
-
 - Special handling (e.g. reverse iteration)
 - Debug issues I ran into / pitfalls etc.
 
@@ -36,7 +33,8 @@
 - **Time**: O(?)
 - **Space**: O(?)
 
-_**Explanation**_: Explanation.
+**_Explanation_**:
+Explanation.
 
 ---
 
