@@ -4,7 +4,7 @@
 
 🧩 Type: (e.g. Topological Sort, Heap for top K elements, Quickselect, etc.)
 🏷️ Tags: DP, Array, Two Pointers, etc.
-🔗 URL: [{LC xxx - Problem Title}](link)
+🔗 URL: [{Leetcode xxx - Problem Title}](link)
 
 ---
 

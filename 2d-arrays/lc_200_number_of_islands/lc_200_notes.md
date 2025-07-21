@@ -45,7 +45,7 @@ Example 2:
 
 ### Approach & Implementation 🛠️
 
-- Loop through the grid sequentially starting from `(0, 0)` and loop through the grid, increase `islandCount` and perform traversal if `grid[m][n]` is `'1'` (island).
+- Scan the grid sequentially starting from `(0, 0)` , increase `islandCount` and perform traversal if `grid[m][n]` is `'1'` (island).
 - Don't forget to increase `islandCount` (😂).
 - No need to create extra space, can do in-place update.
 - For _BFS_: When checking for bounds, it should be `&&` instead of `||`...
