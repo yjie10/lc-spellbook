@@ -2,7 +2,7 @@
 
 {Description}
 
-🧩 Type: (e.g. Topological Sort, Heap for top K elements, Quickselect, etc.)
+🧩 LC Difficulty: Easy, Medium, Hard
 🏷️ Tags: DP, Array, Two Pointers, etc.
 🔗 URL: [{Leetcode xxx - Problem Title}](link)
 
