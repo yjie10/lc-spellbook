@@ -11,6 +11,8 @@
 ### Understanding the Question 🔍
 
 **Constraints / Edge Cases**:
+[Optional] Constraint Verification (in absence of tags/constraints):
+[Optional] Final constraints from LC:
 
 **Test Cases**:
 

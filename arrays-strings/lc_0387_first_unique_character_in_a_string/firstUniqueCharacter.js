@@ -1,5 +1,5 @@
 const firstNonRepeatingCharacter = function (s) {
-  // edge case safe check if s.length can be < 1
+  // Constraint: 1 <= s.length <= 10^5; 个人repo & 出于个人习惯我会保留这个check
   if (s.length === 0) return -1;
   if (s.length === 1) return 0;
 
@@ -18,5 +18,5 @@ const firstNonRepeatingCharacter = function (s) {
 }
 
 console.log(firstNonRepeatingCharacter("leetcode")); // Output: 0
-console.log(firstNonRepeatingCharacter("aaabb")); // Output: -1
-console.log(firstNonRepeatingCharacter("abacabad")); // Output: 3
+console.log(firstNonRepeatingCharacter("loveleetcode")); // Output: 2
+console.log(firstNonRepeatingCharacter("aabb")); // Output: -1

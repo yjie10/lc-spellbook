@@ -8,7 +8,7 @@ Return the _maximum amount of water a container can store_.
 
 **Notice** that you may not slant the container.
 
-🧩 Type: Two Pointers
+🧩 Difficulty: `Medium`
 🏷️ Tags: Array, Two Pointers, Greedy
 🔗 URL: [Leetcode 011 - Container with Most Water}](https://leetcode.com/problems/container-with-most-water/description/)
 
