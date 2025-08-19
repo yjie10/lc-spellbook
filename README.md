@@ -1,6 +1,7 @@
 # 🪄 LC Spellbook
 
 Welcome to my Leetcode notes!
+
 A collection of handwritten (typed) notes and reflections.
 
 ---
@@ -17,6 +18,7 @@ A collection of handwritten (typed) notes and reflections.
 - [200. Number of Islands](./2d-arrays/lc_200_number_of_islands//lc_200_notes.md)
 - [994. Rotting Orange](./2d-arrays/lc_994_rotting_oranges/lc_994_notes.md)
 - [11. Container With Most Water](./arrays-strings/lc_0011_container_with_most_water/lc_0011_notes.md)
+- [14. Longest Common Prefix](./arrays-strings/lc_0014_longest_common_prefix/lc_0014_notes.md) (LC tag is `Easy` but I think it's `Medium`)
 
 ## 📕 Hard
 
