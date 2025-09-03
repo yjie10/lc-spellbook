@@ -11,6 +11,7 @@ A collection of handwritten (typed) notes and reflections.
 - [485. Max Consecutive Ones](./arrays-strings/lc_0485_max_consecutive_ones/lc_0485_notes.md)
 - [387. First Unique Character in a String](./arrays-strings/lc_387_first_unique_character_in_a_string/lc_387_notes.md)
 - [58. Length of Last Word](./arrays-strings/lc_0058_length_of_last_word/lc_0058_notes.md)
+- [997. Find the Town Judge](./graphs/lc_0997_find_the_town_judge/lc_0997_notes.md)
 
 ## 📗 Medium
 
