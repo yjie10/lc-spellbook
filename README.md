@@ -21,6 +21,7 @@ A collection of handwritten (typed) notes and reflections.
 - [994. Rotting Orange](./2d-arrays/lc_994_rotting_oranges/lc_994_notes.md)
 - [11. Container With Most Water](./arrays-strings/lc_0011_container_with_most_water/lc_0011_notes.md)
 - [14. Longest Common Prefix](./arrays-strings/lc_0014_longest_common_prefix/lc_0014_notes.md) (LC tag is `Easy` but I think it's `Medium`)
+- [53. Maximum Subarray](./dp/lc_0053_maximum_subarray/lc_0053_notes.md)
 
 ## 📕 Hard
 

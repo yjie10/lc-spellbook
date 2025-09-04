@@ -1,5 +1,7 @@
 ## LC xxx - {Problem Title} 🐈‍⬛
 
+`Date: MM-DD-YY Time taken: {time}`
+
 {Description}
 
 🧩 LC Difficulty: Easy, Medium, Hard

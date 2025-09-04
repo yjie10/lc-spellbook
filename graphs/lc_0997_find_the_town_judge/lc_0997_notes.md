@@ -1,6 +1,6 @@
 ## LC 997 - Find the Town Judge 🐈‍⬛
 
-`Date: 09-02-2025 Time: 50+ min`
+`Date: 09-02-2025 Time taken: 50+ min`
 
 In a town, there are `n` people labeled from `1` to `n`. There is a rumor that one of these people is secretly the town judge.
 
