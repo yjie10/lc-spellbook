@@ -9,13 +9,13 @@ const peopleAwareOfSecret = function (n, delay, forget) {
       totalKnowing -= informed[i - forget] || 0;
       // those who forgot the secret can't share
       spread -= informed[i - forget] || 0;
-      spread = (spread + mod) % mod;
+      spread = (spread + mod) % mod; // NEED
     }
 
     // gather spreaders
     if (i - delay >= 0) {
       spread += informed[i - delay] || 0;
-      spread = (spread + mod) % mod;
+      spread = (spread + mod) % mod; // NEED
     }
 
     // update informed[i]

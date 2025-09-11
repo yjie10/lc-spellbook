@@ -40,10 +40,10 @@ Output:2.8
   const findMaxAverage = function (nums, k) {
     if (nums.length === 1) return nums[0];
     let maxAvg = -Infinity;
-    for (p1 = 0; p1 + k < nums.length; p1++) {
+    for (p1 = 0; p1 + k <= nums.length; p1++) {
       let p2 = p1,
         currsum = 0;
-      for (let i = 1; i < k; i++) {
+      for (let i = 1; i <= k; i++) {
         currsum += nums[p2];
         p2++;
       }
