@@ -97,8 +97,8 @@ Explanation: The subarray `[5,4,-1,7,8]` has the largest sum 23.
 
 ### Time & Space Complexity ⏳🌌
 
-- **Time**: O(n)
-- **Space**: O(1)
+- **Time**: `O(n)`
+- **Space**: `O(1)`
 
 **_Explanation_**:
 

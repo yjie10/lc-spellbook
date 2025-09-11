@@ -24,8 +24,8 @@
 
 ### Time & Space Complexity ⏳🌌
 
-- **Time**: `O(?)` - Explanation
-- **Space**: `O(?)` - Explanation
+- **Time**: O(?)
+- **Space**: O(?)
 
 ---
 
