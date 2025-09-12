@@ -46,3 +46,7 @@ Made with ☕️ and crying over off-by-one errors.
 ## 📕 Hard
 
 - [42. Trapping Rain Water](./arrays-strings/lc_0042_trapping_rain_water/lc_042_notes.md)
+
+## 📒 Brain Teaser
+
+- [3227. Vowels Game in a String](./brain-teaser/lc_3227_vowels_game_in_a_string/lc_3227_notes.md)
