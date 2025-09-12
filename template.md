@@ -1,7 +1,7 @@
-## LC xxx - {Problem Title} 🐈‍⬛
+## LC xxx - Problem Title 🐈‍⬛
 
-📅 {MM.DD.YY} | ⏳ {Time taken} | 🧩 Difficulty: {Difficulty} | 🏷️ Tags: Sliding Window, Array etc.
-🔗 [Leetcode {xxx} - {Problem Title}](link)
+📅 MM.DD.YY | ⏳ Time taken | 🧩 Difficulty: Easy, Medium, Hard | 🏷️ Tags: Sliding Window, Array etc.
+🔗 [Leetcode xxx - Problem Title](link)
 
 ---
 
