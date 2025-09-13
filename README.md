@@ -50,3 +50,9 @@ Made with ☕️ and crying over off-by-one errors.
 ## 📒 Brain Teaser
 
 - [3227. Vowels Game in a String](./brain-teaser/lc_3227_vowels_game_in_a_string/lc_3227_notes.md)
+
+## 📌 Completed
+
+_These are problems I've completed but didn't write full notes for -- either because they're too simple, repeated, or I didn't find them particularly insightful._
+
+- [3451. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) (Easy, 13min AC)
