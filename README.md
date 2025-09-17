@@ -42,10 +42,12 @@ Made with ☕️ and crying over off-by-one errors.
 - [14. Longest Common Prefix](./arrays-strings/lc_0014_longest_common_prefix/lc_0014_notes.md) (LC tag is `Easy` but I think it's `Medium`)
 - [53. Maximum Subarray](./dp/lc_0053_maximum_subarray/lc_0053_notes.md)
 - [2327. Number of People Aware of a Secret](./dp/lc_2327_number_of_people_aware_of_a_secret/lc_2327_notes.md)
+- [966. Vowel Spellchecker](./arrays-strings/lc_0966_vowel_spellchecker/lc_966_notes.md)
 
 ## 📕 Hard
 
 - [42. Trapping Rain Water](./arrays-strings/lc_0042_trapping_rain_water/lc_042_notes.md)
+- [76. Minimum Window Substring](./arrays-strings/lc_0076_minimum_window_substring/lc_0076_notes.md)
 
 ## 📒 Brain Teaser
 
@@ -56,3 +58,4 @@ Made with ☕️ and crying over off-by-one errors.
 _These are problems I've completed but didn't write full notes for -- either because they're too simple, repeated, or I didn't find them particularly insightful._
 
 - [3451. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) (Easy, 13min AC)
+- [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/) (Optimized version was heavily guided by GPT so I will not include in my notes, medium but TLE hell. P.S. use Python or Java to make life easier lol... )
