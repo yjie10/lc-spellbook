@@ -57,5 +57,7 @@ Made with ☕️ and crying over off-by-one errors.
 
 _These are problems I've completed but didn't write full notes for -- either because they're too simple, repeated, or I didn't find them particularly insightful._
 
-- [3451. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) (Easy, 13min AC)
-- [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/) (Optimized version was heavily guided by GPT so I will not include in my notes, medium but TLE hell. P.S. use Python or Java to make life easier lol... )
+- [3451. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) (Straightforward, 13min AC.)
+- [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/) (Optimized version was heavily guided by GPT so I will not include in my notes, medium but TLE hell. P.S. use a language that has native heap / queue (like Python or Java) to make life easier lol...)
+- [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) (Straightforward.)
+- [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) (Straightforward afterall.)
