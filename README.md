@@ -8,15 +8,14 @@ Here you'll find my full thought process —- including mistakes, debugging, bac
 Difficulty rating is **_entirely personal_** and for reference only.  
 A problem I find hard might be easy to you, and vice versa. We're all on different parts of the journey. 🐾
 
-My goal is to deeply understand each question I do —- even if it means spending 40 minutes on a "easy-medium" or getting stuck on something technical for 20 minutes+. (Though... I might still forget it later 🙃)
+My goal is to deeply understand each question I do -- even if it means spending 40 minutes on a "easy-medium" or getting stuck on something technical for 20 minutes+. (Though... I might still forget it later 🙃)
 
 Still figuring out my ideal way to balance practicing and learning. But if you're into slow, steady, reflective problem-solving, welcome aboard. ☁️
 
 ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈
 
-✨ Special thanks to my spellcasting assistant a.k.a. ChatGPT,
-for gently herding my runaway logic with debugging hints instead of spells.  
-No "here's the code," just "you're almost there, check that edge case again". 🐈‍⬛
+✨ Special thanks to my learning assistant a.k.a. ChatGPT, for gently herding my runaway logic with debugging hints.
+🐈‍⬛
 ... And for helping me untangle my thoughts into actual readable notes, including this README. 🪶
 
 Made with ☕️ and crying over off-by-one errors.
