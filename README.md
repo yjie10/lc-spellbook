@@ -14,9 +14,7 @@ Still figuring out my ideal way to balance practicing and learning. But if you'r
 
 ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈
 
-✨ Special thanks to my learning assistant a.k.a. ChatGPT, for gently herding my runaway logic with debugging hints.
-🐈‍⬛
-... And for helping me untangle my thoughts into actual readable notes, including this README. 🪶
+✨ Special thanks to my learning assistant a.k.a. ChatGPT for helping me untangle my thoughts into actual readable notes, including this README. 🪶
 
 Made with ☕️ and crying over off-by-one errors.
 
