@@ -30,6 +30,7 @@ Made with ☕️ and crying over off-by-one errors.
 - [643. Maximum Average Subarray I](./arrays-strings/lc_0643_maximum_average_subarray_i/lc_0643_notes.md) (More of a `Easy-Medium`)
 - [2785. Sort Vowels in a String](./arrays-strings/lc_2785_sort_vowels_in_a_string/lc_2785_notes.md) (LC tag is `Medium` but I think it's `Easy` or `Easy-Medium`)
 - [21. Merge Two Sorted Lists](./linked-lists/lc_0021_merge_two_sorted_lists/lc_0021_notes.md)
+- [1018. Binary Prefix Divisble By 5](./arrays-strings/lc_1018_binary_prefix_divisible_by_5/)
 
 ## 📗 Medium
 
