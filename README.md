@@ -62,3 +62,5 @@ _These are problems I've completed but didn't write full notes for -- either bec
 - [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) (Straightforward afterall.)
 - [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/) (LC daily problem 1/4/26, more on the mathy side.)
 - [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) (LC daily problem 1/5/26, BFS, very straightforward.)
+- [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/) (LC daily problem 1/6/26.)
+- [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) (LC daily problem 1/7/26. Might add notes later.)
