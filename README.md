@@ -60,3 +60,5 @@ _These are problems I've completed but didn't write full notes for -- either bec
 - [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/) (Optimized version was heavily guided by GPT so I will not include in my notes, medium but TLE hell. P.S. use a language that has native heap / queue (like Python or Java) to make life easier lol...)
 - [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) (Straightforward.)
 - [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) (Straightforward afterall.)
+- [1390. Four Divisors](https://leetcode.com/problems/four-divisors/description/) (LC daily problem 1/4/26, more on the mathy side.)
+- [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) (LC daily problem 1/5/26, BFS, very straightforward.)
