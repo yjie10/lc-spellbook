@@ -1,23 +1,3 @@
-# 🪄 LC-Spellbook: My Leetcode Notes
-
-Welcome to my Leetcode notes!  
-A collection of handwritten (typed) reflections, learnings, and occasional stuck moments.
-
-Here you'll find my full thought process —- including mistakes, debugging, backtracking, and the final solution. I write notes for myself first, so they're verbose and honest rather than optimized for speed or brevity.
-
-Difficulty rating is **_entirely personal_** and for reference only.  
-A problem I find hard might be easy to you, and vice versa. We're all on different parts of the journey. 🐾
-
-My goal is to deeply understand each question I do -- even if it means spending 40 minutes on a "easy-medium" or getting stuck on something technical for 20 minutes+. (Though... I might still forget it later 🙃)
-
-Still figuring out my ideal way to balance practicing and learning. But if you're into slow, steady, reflective problem-solving, welcome aboard. ☁️
-
-ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈ ᵕ̈
-
-Made with ☕️ and crying over off-by-one errors.
-
----
-
 ## 📘 Easy
 
 - [485. Max Consecutive Ones](./arrays-strings/lc_0485_max_consecutive_ones/lc_0485_notes.md)

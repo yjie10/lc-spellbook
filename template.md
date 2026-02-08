@@ -1,6 +1,9 @@
 ## LC xxx - Problem Title 🐈‍⬛
 
-📅 MM.DD.YY | ⏳ Time taken | 🧩 Difficulty: Easy, Medium, Hard | 🏷️ Tags: Sliding Window, Array etc.
+📅 MM.DD.YY
+⏳ Time taken
+🧩 Difficulty: Easy, Medium, Hard, Trick, etc.
+🏷️ Tags: Sliding Window, Array etc.
 🔗 [Leetcode xxx - Problem Title](link)
 
 ---
