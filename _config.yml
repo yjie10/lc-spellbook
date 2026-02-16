@@ -2,5 +2,7 @@ title: Leetcode Spellbook
 description: Personal LeetCode notes and solutions
 theme: minima
 
+baseurl: '/lc-spellbook'
+
 exclude:
   - template.md
