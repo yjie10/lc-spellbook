@@ -1,8 +1,6 @@
 ---
-layout: home
+layout: default
 ---
-
-## Leetcode Spellbook
 
 ## 📘 Easy
 
