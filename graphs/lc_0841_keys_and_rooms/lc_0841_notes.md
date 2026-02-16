@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 841 - Keys and Rooms 🐈‍⬛
 
 `Date: 09-03-25 Time taken: ~22min`

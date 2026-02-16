@@ -1,2 +1,10 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+Gemfile.lock
+
 # Misc
 .DS_Store
+.vscode/

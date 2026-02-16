@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 643 - Maximum Average Subarray I 🐈‍⬛
 
 `Date: 09-08-25 Time taken: 1hr+`

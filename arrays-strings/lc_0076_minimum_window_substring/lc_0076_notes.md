@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 076 - Minimum Window Substring 🐈‍⬛
 
 📅 09.16.25 | ⏳ Lost track of time `_(:D」∠)_` | 🧩 Difficulty: Hard | 🏷️ Tags: Sliding Window, Hash Table, String
@@ -27,7 +33,6 @@
 - The _"find a valid window first"_ logic came from LC643 Maximum Average Subarray problem, where I used 2 loops -- one for calculating the sum up to `k`, and another for updating the `max`. This approach _DID_ pass some test cases, but won't work for most test cases (e.g. first valid window includes the whole `s` string already → no way to shrink the window).
 - Need to find valid substring _and_ slide window in the same loop. First expand the window, and once there's a valid window, record the indexes and try shrinking; repeat.
 - We actually need to:
-
   1. Expand the window (move end).
   2. Once it becomes valid (contains all characters), try shrinking from the start side.
   3. Every time we find a valid window, update the shortest one if it’s smaller.

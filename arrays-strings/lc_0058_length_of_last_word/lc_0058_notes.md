@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 058 - Length of Last Word 🐈‍⬛
 
 Given a string `s` consisting of words and spaces, return _the length of the **last** word in the string_.

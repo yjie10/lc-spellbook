@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 2785 - Sort Vowels in a String 🐈‍⬛
 
 📅 09.11.25 | ⏳ 40min+ | 🧩 Difficulty: Medium (Easy) | 🏷️ Tags: String, Sorting, Daily Question

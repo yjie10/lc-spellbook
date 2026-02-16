@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 997 - Find the Town Judge 🐈‍⬛
 
 `Date: 09-02-2025 Time taken: 50+ min`

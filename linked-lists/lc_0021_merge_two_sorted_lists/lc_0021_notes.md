@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 021 - Merge Two Sorted Lists 🐈‍⬛
 
 📅 11.18.25 | ⏳ 1hr+ | 🧩 Difficulty: Easy (Medium; Concept of using a dummy node is new for me) | 🏷️ Tags: Linked Lists

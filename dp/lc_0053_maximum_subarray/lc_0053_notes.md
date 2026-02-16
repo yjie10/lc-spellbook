@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 053 - Maximum Subarray 🐈‍⬛
 
 `Date: 09-04-25 Time taken: ~1hr+`

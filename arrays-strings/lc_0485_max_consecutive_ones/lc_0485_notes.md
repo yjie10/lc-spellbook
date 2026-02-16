@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 485 - Max Consecutive Ones 🐈‍⬛
 
 Given a binary array `nums`, return the _maximum number of consecutive `1`'s in the array_.

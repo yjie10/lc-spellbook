@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 966 - Vowel Spellchecker 🐈‍⬛
 
 📅 09.15.25 | ⏳ 20min (with hints + right tools) | 🧩 Difficulty: Medium | 🏷️ Tags: Array, Hash Table, String, Daily Question

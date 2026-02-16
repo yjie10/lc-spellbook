@@ -1,34 +1,38 @@
+---
+layout: home
+---
+
 ## 📘 Easy
 
-- [485. Max Consecutive Ones](./arrays-strings/lc_0485_max_consecutive_ones/lc_0485_notes.md)
-- [387. First Unique Character in a String](./arrays-strings/lc_387_first_unique_character_in_a_string/lc_387_notes.md)
-- [58. Length of Last Word](./arrays-strings/lc_0058_length_of_last_word/lc_0058_notes.md)
-- [997. Find the Town Judge](./graphs/lc_0997_find_the_town_judge/lc_0997_notes.md)
-- [841. Keys and Rooms](./graphs/lc_0841_keys_and_rooms/lc_0841_notes.md) (LC tag is `Medium` but I think it's `Easy`)
-- [643. Maximum Average Subarray I](./arrays-strings/lc_0643_maximum_average_subarray_i/lc_0643_notes.md) (More of a `Easy-Medium`)
-- [2785. Sort Vowels in a String](./arrays-strings/lc_2785_sort_vowels_in_a_string/lc_2785_notes.md) (LC tag is `Medium` but I think it's `Easy` or `Easy-Medium`)
-- [21. Merge Two Sorted Lists](./linked-lists/lc_0021_merge_two_sorted_lists/lc_0021_notes.md)
-- [1018. Binary Prefix Divisble By 5](./arrays-strings/lc_1018_binary_prefix_divisible_by_5/)
+- [485. Max Consecutive Ones](./arrays-strings/lc_0485_max_consecutive_ones/lc_0485_notes)
+- [387. First Unique Character in a String](./arrays-strings/lc_0387_first_unique_character_in_a_string/lc_0387_notes)
+- [58. Length of Last Word](./arrays-strings/lc_0058_length_of_last_word/lc_0058_notes)
+- [997. Find the Town Judge](./graphs/lc_0997_find_the_town_judge/lc_0997_notes)
+- [841. Keys and Rooms](./graphs/lc_0841_keys_and_rooms/lc_0841_notes) (LC tag is `Medium` but I think it's `Easy`)
+- [643. Maximum Average Subarray I](./arrays-strings/lc_0643_maximum_average_subarray_i/lc_0643_notes) (More of a `Easy-Medium`)
+- [2785. Sort Vowels in a String](./arrays-strings/lc_2785_sort_vowels_in_a_string/lc_2785_notes) (LC tag is `Medium` but I think it's `Easy` or `Easy-Medium`)
+- [21. Merge Two Sorted Lists](./linked-lists/lc_0021_merge_two_sorted_lists/lc_0021_notes)
+- [1018. Binary Prefix Divisble By 5](./arrays-strings/lc_1018_binary_prefix_divisible_by_5/lc_1018_notes)
 
 ## 📗 Medium
 
-- [130. Surrounded Regions](./2d-arrays/lc_130_surrounded_regions/lc_130_notes.md)
-- [200. Number of Islands](./2d-arrays/lc_200_number_of_islands//lc_200_notes.md)
-- [994. Rotting Orange](./2d-arrays/lc_994_rotting_oranges/lc_994_notes.md)
-- [11. Container With Most Water](./arrays-strings/lc_0011_container_with_most_water/lc_0011_notes.md)
-- [14. Longest Common Prefix](./arrays-strings/lc_0014_longest_common_prefix/lc_0014_notes.md) (LC tag is `Easy` but I think it's `Medium`)
-- [53. Maximum Subarray](./dp/lc_0053_maximum_subarray/lc_0053_notes.md)
-- [2327. Number of People Aware of a Secret](./dp/lc_2327_number_of_people_aware_of_a_secret/lc_2327_notes.md)
-- [966. Vowel Spellchecker](./arrays-strings/lc_0966_vowel_spellchecker/lc_966_notes.md)
+- [130. Surrounded Regions](./2d-arrays/lc_0130_surrounded_regions/lc_0130_notes)
+- [200. Number of Islands](./2d-arrays/lc_0200_number_of_islands/lc_0200_notes)
+- [994. Rotting Orange](./2d-arrays/lc_0994_rotting_oranges/lc_0994_notes)
+- [11. Container With Most Water](./arrays-strings/lc_0011_container_with_most_water/lc_0011_notes)
+- [14. Longest Common Prefix](./arrays-strings/lc_0014_longest_common_prefix/lc_0014_notes) (LC tag is `Easy` but I think it's `Medium`)
+- [53. Maximum Subarray](./dp/lc_0053_maximum_subarray/lc_0053_notes)
+- [2327. Number of People Aware of a Secret](./dp/lc_2327_number_of_people_aware_of_a_secret/lc_2327_notes)
+- [966. Vowel Spellchecker](./arrays-strings/lc_0966_vowel_spellchecker/lc_966_notes)
 
 ## 📕 Hard
 
-- [42. Trapping Rain Water](./arrays-strings/lc_0042_trapping_rain_water/lc_042_notes.md)
-- [76. Minimum Window Substring](./arrays-strings/lc_0076_minimum_window_substring/lc_0076_notes.md)
+- [42. Trapping Rain Water](./arrays-strings/lc_0042_trapping_rain_water/lc_0042_notes)
+- [76. Minimum Window Substring](./arrays-strings/lc_0076_minimum_window_substring/lc_0076_notes)
 
 ## 📒 Brain Teaser
 
-- [3227. Vowels Game in a String](./brain-teaser/lc_3227_vowels_game_in_a_string/lc_3227_notes.md)
+- [3227. Vowels Game in a String](./brain-teaser/lc_3227_vowels_game_in_a_string/lc_3227_notes)
 
 ## 📌 Completed
 

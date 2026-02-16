@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 2327 - Number of People Aware of Secret 🐈‍⬛
 
 📅 09.09.25 - 09.10.25 | ⏳ ~2-3hrs | 🧩 Difficulty: Medium | 🏷️ Tags: DP (State Transition | State Propagation)

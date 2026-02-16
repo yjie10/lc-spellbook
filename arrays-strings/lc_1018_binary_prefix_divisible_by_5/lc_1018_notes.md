@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## 1018. Binary Prefix Divisible By 5 🐈‍⬛
 
 📅 11.24.25 | ⏳ 1hr+ | 🧩 Difficulty: `Easy` (I'd say it's `Trick` because you need some bit manipulation + overflow awareness) | 🏷️ Tags: Array, Bit Manipulation

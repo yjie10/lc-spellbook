@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[← Back to Home](/)
+
 ## LC 3227 - Vowels Game in a String 🐈‍⬛
 
 📅 09.13.25 | ⏳ 39min | 🧩 Difficulty: Medium (Easy, Trick) | 🏷️ Tags: String, Brain Teaser, Daily Question
