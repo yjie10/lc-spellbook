@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Leetcode Spellbook
-
 ## 📘 Easy
 
 - [485. Max Consecutive Ones](./arrays-strings/lc_0485_max_consecutive_ones/lc_0485_notes)
