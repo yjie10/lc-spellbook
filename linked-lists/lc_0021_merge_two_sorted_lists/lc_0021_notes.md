@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[← Back to Home](/)
+[← Back to Home]({{ site.baseurl }}/)
 
 ## LC 021 - Merge Two Sorted Lists 🐈‍⬛
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[← Back to Home](/)
+[← Back to Home]({{ site.baseurl }}/)
 
 ## 1018. Binary Prefix Divisible By 5 🐈‍⬛
 
